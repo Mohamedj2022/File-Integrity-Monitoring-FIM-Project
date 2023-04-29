@@ -2,6 +2,14 @@
 
 This project is a basic implementation of a File Integrity Monitoring (FIM) tool using PowerShell. The script monitors a set of files for changes and notifies the user if a file has been created, modified, or deleted.
 
+The File Integrity Monitoring (FIM) project can be a valuable tool for a cybersecurity team as it allows for continuous monitoring and alerting when changes occur in important system files. 
+
+By implementing this project, the cybersecurity team can receive alerts when unauthorized changes or modifications occur in critical files or folders, helping them to detect and respond to potential security breaches quickly.
+
+Additionally, the baseline.txt file created by the project can serve as a reference point for the team to compare against when investigating potential incidents. This can help the team quickly identify if changes are expected or if they are indicative of a security threat.
+
+Overall, the FIM project can provide an additional layer of security to a system and aid in the early detection and response to potential security incidents.
+
 ## How it works
 
 The script has two main functionalities:
