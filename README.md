@@ -10,6 +10,13 @@ Additionally, the baseline.txt file created by the project can serve as a refere
 
 Overall, the FIM project can provide an additional layer of security to a system and aid in the early detection and response to potential security incidents.
 
+## Blog
+
+Here is my blog post about FIM for more information:
+
+https://medium.com/@mojmdevo/file-integrity-monitoring-what-is-it-and-how-to-implement-it-without-ruining-your-day-eeb5cf065253
+
+
 ## How it works
 
 The script has two main functionalities:
